@@ -1,4 +1,5 @@
 # Extract MS Learn Units
+<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/005e1cb9-8cb6-49da-a88c-cd9b8e6ea880" />
 
 This is a Zsh script that grabs all the lesson URLs from any Microsoft Learn learning path or module page. 
 
