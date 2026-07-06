@@ -134,9 +134,9 @@ You should have received a copy of the GNU General Public License along with thi
 
 ### Trademarks & Fair Use Notice
 
-Microsoft, Microsoft Learn, and the Microsoft logo are trademarks or registered trademarks of the Microsoft Corporation in the United States and/or other countries. 
+Microsoft, Microsoft Learn, and the Microsoft logo are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries. Google, Google NotebookLM, and the NotebookLM logo are trademarks or registered trademarks of Google LLC.
 
-The Microsoft logo and branding elements depicted in the project banner image are owned exclusively by Microsoft Corporation and are utilized here under the doctrine of **fair use** (nominative fair use) strictly for descriptive, educational, and identification purposes to illustrate project compatibility with Microsoft Learn documentation. 
+The Microsoft and Google NotebookLM logos and branding elements depicted in the project banner image are owned exclusively by Microsoft Corporation and Google LLC respectively. They are utilized here under the doctrine of **fair use** (nominative fair use) strictly for descriptive, educational, and identification purposes to illustrate project compatibility and workflow integration with Microsoft Learn documentation and Google NotebookLM. 
 
 This open-source project is an independent developer tool and is not affiliated with, endorsed by, sponsored by, or otherwise associated with Microsoft Corporation or Google LLC.
 
