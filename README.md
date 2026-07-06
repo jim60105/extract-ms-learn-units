@@ -120,4 +120,15 @@ shellspec --format documentation
 
 ## 📜 License
 
-This project is licensed under the **GNU General Public License v3.0 or later (GPL-3.0-or-later)**. See [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html) for details.
+<img src="https://github.com/user-attachments/assets/f4d883c0-80d1-4980-a9f4-eebf31a28b02" alt="gplv3" width="300" />
+
+[GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
+
+Copyright (C) 2026 Jim Chen <Jim@ChenJ.im>.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
