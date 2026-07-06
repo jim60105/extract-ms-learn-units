@@ -1,21 +1,23 @@
 # Extract MS Learn Units
 
-A robust, fail-fast Zsh utility designed to extract all unit URLs from Microsoft Learn **Learning Path** and **Module** pages. 
+This is a Zsh script that grabs all the lesson URLs from any Microsoft Learn learning path or module page. 
 
-This tool was created specifically to streamline the process of importing Microsoft Learn documentation into **[Google NotebookLM](https://notebooklm.google.com/)**, RAG pipelines, or AI study assistants by automatically generating clean, content-dense source URL lists.
+I originally built this to feed official documentation into **[Google NotebookLM](https://notebooklm.google.com/)**. Instead of opening dozens of tabs and copying links by hand, you run one command and get a clean list of URLs ready to import.
 
 ---
 
-## 🎯 Why This Tool?
+## 🎯 Why I Built This
 
-When creating custom research notebooks or knowledge bases in **NotebookLM**, manually opening and copying individual unit URLs from multi-module Microsoft Learn learning paths is tedious and time-consuming. 
+If you use NotebookLM to study or build knowledge bases, you know that Microsoft Learn courses are split across multiple modules and individual unit pages. Copying every single URL manually takes forever.
 
-`extract-ms-learn-units` automates this entire workflow while intelligently filtering out boilerplate pages that add no semantic value to your AI models:
-- **Excludes introductions** (`*introduction*`)
-- **Excludes unit summaries** (`*summary*`)
-- **Excludes quizzes & assessments** (`*knowledge-check*`)
+If you just feed the top-level learning path URL to an AI tool, it usually misses the underlying pages. But if you grab every link indiscriminately, you end up cluttering your notebook with filler pages that don't teach you anything.
 
-The result is a clean, ordered list of pure instructional unit URLs ready to be pasted directly into NotebookLM as website sources.
+This script fetches the pages for you and automatically filters out the noise:
+- Skips introductory pages (`*introduction*`)
+- Skips module summaries (`*summary*`)
+- Skips knowledge check quizzes (`*knowledge-check*`)
+
+You get back exactly what you need: a plain list of core instructional URLs, ordered from start to finish, that you can paste straight into NotebookLM.
 
 ---
 
