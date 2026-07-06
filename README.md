@@ -132,3 +132,11 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
+### Trademarks & Fair Use Notice
+
+Microsoft, Microsoft Learn, and the Microsoft logo are trademarks or registered trademarks of the Microsoft Corporation in the United States and/or other countries. 
+
+The Microsoft logo and branding elements depicted in the project banner image are owned exclusively by Microsoft Corporation and are utilized here under the doctrine of **fair use** (nominative fair use) strictly for descriptive, educational, and identification purposes to illustrate project compatibility with Microsoft Learn documentation. 
+
+This open-source project is an independent developer tool and is not affiliated with, endorsed by, sponsored by, or otherwise associated with Microsoft Corporation or Google LLC.
+
